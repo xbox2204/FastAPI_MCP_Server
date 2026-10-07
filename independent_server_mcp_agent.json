@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "fastapi-bridge-stdio": {
+        "command": "python",
+        "args": ["/path/to/your/mcp_agent.py"]
+      }
+    }
+}  
