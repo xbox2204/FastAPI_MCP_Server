@@ -1,8 +1,10 @@
 ### Run these commands
 
-pip install fastmcp httpx
-pip install fastapi uvicorn fastapi-mcp
-pip install "mcp>=1.2.0,<2.0.0" --force-reinstall
+-pip install fastmcp httpx
+
+-pip install fastapi uvicorn fastapi-mcp
+
+-pip install "mcp>=1.2.0,<2.0.0" --force-reinstall
 
 ### Application working Screenshot
 
